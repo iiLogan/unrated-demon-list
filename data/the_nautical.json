@@ -2,7 +2,7 @@
     "id": 68567516,
     "name": "The Nautical",
     "author": "nayf",
-    "creators": ["nayf", "ph0bic", "DrCuber", "maxfs", "NXISE", "Xeox", "Ewop", "Silver", "fnm04", "Darmuth"],
+    "creators": ["jcak", "nayf", "ph0bic", "DrCuber", "maxfs", "NXISE", "Xeox", "Ewop", "Silver", "fnm04", "Darmuth"],
     "verifier": "Timo",
     "verification": "https://youtu.be/xDKFca4HMDk",
     "showcase": "https://www.youtube.com/watch?v=-Q5W8TpmfZg",
@@ -11,6 +11,11 @@
         {
             "user": "Hipo",
             "link": "https://youtu.be/J5dH-BftJII",
+            "percent": 100
+        }, 
+        {
+            "user": "Cookie", 
+            "link": "https://www.youtube.com/watch?v=c68G340tZq8", 
             "percent": 100
         }
     ],

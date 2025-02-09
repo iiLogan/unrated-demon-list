@@ -1,0 +1,22 @@
+{
+    "id": 100847347,
+    "name": "Achelous",
+    "author": "Nqrwhal",
+    "creators": ["Huskie, Riley, Dogpole, The16FigureLimit, Tangi"],
+    "verifier": "AcaciaDoor",
+    "verification": "https://www.youtube.com/watch?v=vEfSh4vL628",
+    "percentToQualify": 100,
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "Robotic",
+            "link": "https://youtu.be/OVpM4R_zGfk?si=P9XGC6bGid1kGl_A",
+            "percent": 100
+        },
+        {
+            "user": "Syrcx",
+            "link": "https://youtu.be/X43seMEO0a8",
+            "percent": 100
+        }
+    ]
+}

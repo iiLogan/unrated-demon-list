@@ -5,6 +5,7 @@
     "creators": ["NineDice", "Taika"],
     "verifier": "Cursed",
     "verification": "https://youtu.be/iEznd6B-uig",
+    "showcase": "https://youtu.be/cnbw7MbZCn8?si=KuCsqUA4JVt8sMrl",
     "percentToQualify": 60,
     "records": [
         {
@@ -78,8 +79,28 @@
             "percent": 100
         },
         {
+            "user": "ezzzzka", 
+            "link": "https://youtu.be/Ddm8aLpof7Q?si=kJkF1Liy7Zm0j6U0", 
+            "percent": 100
+        }, 
+        {
             "user": "microforest",
             "link": "https://www.youtube.com/watch?v=2RCZYbbZHCA",
+            "percent": 100
+        },
+         {
+            "user": "eleek",
+            "link": "https://www.youtube.com/watch?v=SJ86iymOE1c",
+            "percent": 100
+        },
+         {
+            "user": "GoldiX",
+            "link": "https://youtu.be/CIeqJyH9s2k?si=sml60splzR33rTYT",
+            "percent": 100
+        },
+         {
+            "user": "relpix",
+            "link": "https://youtu.be/GAboHpflijA?si=R1RJMdpwM6QzqwE3",
             "percent": 100
         },
         {
@@ -96,6 +117,11 @@
             "user": "n1ckxd",
             "link": "https://youtu.be/BAlr8h3snbA?si=b-iVmC3GlsKdTlhc",
             "percent": 84
+        },
+        {
+            "user": "jayyau",
+            "link": "https://youtu.be/tiCNbd0Xl6k?si=tlfJxR4gTVGNx5_g",
+            "percent": 80
         },
         {
             "user": "zgod",

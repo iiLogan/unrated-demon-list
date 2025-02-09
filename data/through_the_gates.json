@@ -11,8 +11,13 @@
     "records": [
         {
             "user": "SeptaGon7",
-            "link": "https://youtu.be/1OPrXcxP-wA",
-            "percent": 93
+            "link": "https://www.youtube.com/watch?v=-MZr0RqFWok",
+            "percent": 100
+        },
+        {
+            "user": "Hipo",
+            "link": "https://youtu.be/rTn0ZgVWxRg",
+            "percent": 100
         }
     ],
     "tags": ["Old Impossible Level"]

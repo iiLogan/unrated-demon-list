@@ -10,24 +10,35 @@
     "records": [
         {
             "user": "fusion425",
-            "link": "https://youtu.be/skbCrS4C_U4",
+            "link": "https://youtu.be/skbCrS4C_U4?si=nZeLsrL4Jb5m4iGq",
             "percent": 100
         },
-        {
+          {
             "user": "Cookie",
-            "link": "https://youtu.be/KNLpdEk7yaU",
+            "link": "https://youtu.be/KNLpdEk7yaU?si=t9VRDi__ez6MwQaD",
             "percent": 100
         },
         {
             "user": "Hipo",
-            "link": "https://youtu.be/JN-_nh49Euw",
+            "link": "https://youtu.be/JN-_nh49Euw?si=kDfKt5_G7MVbPf_z",
             "percent": 100
         },
         {
             "user": "Tawer",
-            "link": "https://youtu.be/tWmsAHvEdos?si=NkFfUU5RI5wkWs0U",
+            "link": "https://youtu.be/tWmsAHvEdos?si=tDT-hxWgeAfytoie",
+            "percent": 100
+        },
+        {
+            "user": "viktor_korneplod35",
+            "link": "https://youtu.be/00QGGpHoil4?si=UjDRb8z7bI6ugl6Y",
+            "percent": 100
+        },
+         {
+            "user": "Falaet",
+            "link": "https://youtu.be/z95O3F0kSN8?si=rFykBN-T2rIyGH2H",
             "percent": 100
         }
+            
     ],
     "tags": ["Short", "NoNG Song"],
     "song": "https://cdn.discordapp.com/attachments/1112151604070719699/1112163121637904554/1145233.mp3"

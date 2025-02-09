@@ -8,6 +8,17 @@
     "showcase": "https://www.youtube.com/watch?v=xdtIhgCOx_4",
     "percentToQualify": 66,
     "records": [
+        
+        {
+            "user": "Skylar", 
+            "link": "https://youtu.be/9-idf0mJEdw?si=mC51l0qMVMdLDF2n", 
+            "percent": 70
+        },
+        {
+            "user": "Emp",
+            "link": "https://youtu.be/_9kAJ9cpARQ?si=ONXxUQTM4op2-ihr",
+            "percent": 68
+        },
         {
             "user": "sydno",
             "link": "https://youtu.be/4pF0iKpIuvM?si=NufmH6AwT-Kyxs2Y",

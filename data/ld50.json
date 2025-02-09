@@ -1,0 +1,22 @@
+{
+    "id": 103947139,
+    "name": "LD50",
+    "author": "StarkyTheSalad",
+    "creators": ["StarkyTheSalad, paqoe, ryli06"],
+    "verifier": "Blitzer",
+    "verification": "https://youtu.be/2OiS9mVDlmQ?si=8WVSGcmoxUrMMV2-",
+    "percentToQualify": 100,
+    "password": "Free to copy",
+    "records": [
+         {
+            "user": "npesta",
+            "link": "https://youtu.be/IFURcBgFWa0?si=INr4Ib-KfTcBDGfB",
+            "percent": 100
+        },
+         {
+            "user": "availax",
+            "link": "https://youtu.be/p4vwEEoBTcs?si=w8yI2VG51cIdHvc4",
+            "percent": 100
+        }
+    ]
+}

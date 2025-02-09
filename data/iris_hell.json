@@ -126,9 +126,30 @@
         },
          {
             "user": "Sadisyourlife",
-            "link": "https://www.youtu.be/7GTAULZS3XU&t=3s",
+            "link": "https://www.youtube.com/watch?v=7GTAULZS3XU",
+            "percent": 100
+        }, 
+        {
+            "user": "plimbus", 
+            "link": "https://youtu.be/b5GyOG01vg8?si=CI3QGavV9SYjuLnL", 
+            "percent": 100
+        }, 
+        {
+            "user": "LilleBygger", 
+            "link": "https://youtu.be/GXgRUqfo9xM?si=OcrNGjMJwjUJ8pdX", 
+            "percent": 100
+        },
+        {
+            "user": "BOXY", 
+            "link": "https://www.youtube.com/watch?v=hKh--GpxMi8", 
+            "percent": 100
+        },
+        {
+            "user": "BeckettGD", 
+            "link": "https://youtu.be/b0AOeGZu9SM", 
             "percent": 100
         }
+            
     ],
     "tags": ["Short"]
 }

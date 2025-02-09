@@ -1,10 +1,22 @@
 {
-    "id": 88203501,
-    "name": "UNKNOWN",
-    "author": "NineDice",
-    "creators": ["GhostVandalf", "GD Iris", "Gusearth", "DrCuber", "NineDice", "Renn241", "Relayne", "muriday"]
-    "verifier": "Diamond",
-    "verification": "soon",
-    "percentToQualify": 100,
-    "records": []
+    "id": 83580111,
+    "name": "UNKNOWN (Old)",
+    "author": "KYWY",
+    "creators": ["Relayne", "muriday"],
+    "verifier": "Emp",
+    "verification": "https://youtu.be/ERvtVOPyWgY?si=zp7L_LYFhXQct5NH",
+    "showcase": "https://youtu.be/roZPXBvDMAg?si=crtj1KPSjdzAK0F1",
+    "percentToQualify": 83,
+    "records": [
+        {
+            "user": "senzoou",
+            "link": "https://youtu.be/8tuX43p3eQo?si=HwUQuU_tfwOklqZ6",
+            "percent": 100
+        },
+         {
+            "user": "amigo16",
+            "link": "https://www.youtube.com/watch?v=EAxrhhgCJ0E",
+            "percent": 91
+        }
+    ]
 }

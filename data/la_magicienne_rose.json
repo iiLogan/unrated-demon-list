@@ -2,7 +2,7 @@
     "id": 78251125,
     "name": "La Magicienne Rose",
     "author": "InkZie",
-    "creators": ["Glitchy"],
+    "creators": ["Glitchi"],
     "verifier": "InkZie",
     "verification": "https://youtu.be/FLO06PEsxTM",
     "showcase": "https://www.youtube.com/watch?v=-tdMks74VSE",
@@ -11,6 +11,11 @@
         {
             "user": "ShindaYoshi",
             "link": "https://youtu.be/1O1Lf-rtg4I",
+            "percent": 100
+        },
+          {
+            "user": "fusion425",
+            "link": "https://youtu.be/28R20E2SM7c",
             "percent": 100
         }
     ],

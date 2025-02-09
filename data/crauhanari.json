@@ -1,11 +1,18 @@
 {
-    "id": 97025428,
+    "id": 98609572,
     "name": "Crauhanari",
-    "author": "rastuyas",
+    "author": "itzmira3",
     "creators": ["syrcx", "Tangi", "Hyperbeat", "Iza"],
     "verifier": "syrcx",
     "verification": "https://youtu.be/fEfqbd4As5c?si=e7aRdZeZTB3Fkbrg",
     "percentToQualify": 51,
-    "records": [],
-    "tags": ["Layout"]
+    "records": [
+            {
+            "user": "ItzMira",
+            "link": "https://youtu.be/nuxO0msQJpY",
+            "percent": 72
+        }
+    ],
+    "tags": ["Layout", "NoNG Song"],
+    "song": "https://cdn.discordapp.com/attachments/1112151604070719699/1192942463653007380/412437.mp3?ex=65aae93f&is=6598743f&hm=39d584a3a41e22591bc6e07eea3c1993871e7760820b4bbfa9ef73c3be41138f&"
 }

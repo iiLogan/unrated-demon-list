@@ -100,6 +100,11 @@
             "percent": 100
         },
         {
+            "user": "dual",
+            "link": "https://youtu.be/FozCAe1vMNc?si=lVF4EwVZD12FIUxM",
+            "percent": 100
+        },
+        {
             "user": "tomie13",
             "link": "https://youtu.be/_CKyuJKArdc",
             "percent": 100
@@ -177,6 +182,76 @@
         {
             "user": "wiz",
             "link": "https://youtu.be/9h7-XEB5CZw",
+            "percent": 100
+        }, 
+        {
+            "user": "Wooshi", 
+            "link": "https://youtu.be/qCiTjgO-mRc?si=57i0eEpKRTNWwj5G", 
+            "percent": 100
+        }, 
+        {
+            "user": "skys stuff", 
+            "link": "https://youtu.be/adfCsXHHkkY?si=XIjNALEFX27FBSV8", 
+            "percent": 100
+        }, 
+        {
+            "user": "LilleBygger", 
+            "link": "https://youtu.be/XYeHOzpNIbY?si=cysXzoWo4cNYKtMa", 
+            "percent": 100
+        },
+        {
+            "user": "Modiolus", 
+            "link": "https://youtu.be/LRHrpY-__lw?si=jmZVTtdX8U9dvcBn", 
+            "percent": 100
+        },
+        {
+            "user": "Mewtwo557", 
+            "link": "https://youtu.be/IKR6S_kcQVg", 
+            "percent": 100
+        },
+        {
+             "user": "Glow", 
+            "link": "https://youtu.be/Qz-5mSOU7sk?si=fl-8H7ONwRSiFgDg", 
+            "percent": 100
+        },
+        { 
+             "user": "AeonAir", 
+            "link": "https://youtu.be/PBa3vYh03pg?si=idSTp9ukxjF1NExo", 
+            "percent": 100
+        },
+        { 
+             "user": "Bumpo", 
+            "link": "https://youtu.be/j13AvPBtigk", 
+            "percent": 100
+        },
+         { 
+             "user": "Viernelis", 
+            "link": "https://youtu.be/QWjR8EG2M7Y?si=_pTdxFZ1uWNGSu4H", 
+            "percent": 100
+        },
+        { 
+             "user": "Zamos", 
+            "link": "https://youtu.be/c-9DIR3dwXI?si=40778ehXvbXrxGdd", 
+            "percent": 100
+        },
+        { 
+             "user": "reruchoupie", 
+            "link": "https://youtu.be/bbuRRXQt4Xo", 
+            "percent": 100
+        },
+        { 
+             "user": "lolwut", 
+            "link": "https://youtube.com/watch?v=Rl2EBJjnYpU&si=MNOW_Q-hyKh0dA9v", 
+            "percent": 100
+        },
+        { 
+            "user": "Maruigi", 
+            "link": "https://youtu.be/tv_KWzrjrkg?si=7kX3MGRohG8RKylG", 
+            "percent": 100
+        },
+        { 
+            "user": "zoldus", 
+            "link": "https://youtu.be/tLWpQb1qTfs?si=qYZOdb4QSUu22syE", 
             "percent": 100
         }
     ],

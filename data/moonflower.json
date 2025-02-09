@@ -5,8 +5,15 @@
     "creators": [],
     "verifier": "TFIBB",
     "verification": "https://youtu.be/4_C6BaxD1D4?si=rZqJqP9LpoQPs-En",
+    "showcase": "https://youtu.be/mudMIUzTOcA?si=beihArfoZHaelLHU",
     "percentToQualify": 45,
     "password": "Free to Copy",
-    "records": [],
+    "records": [
+        {
+            "user": "qsfax",
+            "link": "https://youtu.be/UwKizCs-z6g?si=oyrdQemyVGO0kAlN",
+            "percent": 98
+        }
+    ],
     "tags": ["XL", "Memory"]
 }

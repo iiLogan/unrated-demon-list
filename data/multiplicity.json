@@ -1,0 +1,23 @@
+{
+    "id": 101502608,
+    "name": "Multiplicity",
+    "author": "S3rios",
+    "creators": [],
+    "verifier": "cobrablitz",
+    "verification": "https://youtu.be/6YVLBQ8xKyo?si=G_ITmajtsnTW9d5M",
+    "showcase": "https://youtu.be/3WJX3exhm1c?si=KkcVHftdMqcMolPX",
+    "percentToQualify": 56,
+    "records": [
+         {
+            "user": "Hipo", 
+            "link": "https://youtu.be/GcSB5TyiQq8?si=aGHhcsVRdjA7NlaO", 
+            "percent": 100
+        },
+    
+         {
+            "user": "almohadaless", 
+            "link": "https://www.youtube.com/watch?v=L5TT2kEmbk0", 
+            "percent": 56
+        }
+    ]
+}

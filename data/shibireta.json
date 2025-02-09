@@ -4,7 +4,7 @@
     "author": "lolwut7",
     "creators": ["Shuri", "Minaxa", "Lime"],
     "verifier": "lolwut",
-    "verification": "https://youtu.be/PIdX-VGhBX4",
+    "verification": "https://youtu.be/zOd0fnhAclQ?si=ZFRgWXc--iyEdkf6",
     "percentToQualify": 100,
     "password": "121519",
     "records": [
@@ -46,6 +46,16 @@
         {
             "user": "Luned",
             "link": "https://youtu.be/qtLjIc1zwOI",
+            "percent": 100
+        },
+        {
+            "user": "Hqmy",
+            "link": "https://youtu.be/fo27CH7wQoo?si=qfREd6bGSTm1ZyQw",
+            "percent": 100
+        },
+        {
+            "user": "Ysta",
+            "link": "https://youtu.be/vj873Wi8gfg",
             "percent": 100
         }
     ],
